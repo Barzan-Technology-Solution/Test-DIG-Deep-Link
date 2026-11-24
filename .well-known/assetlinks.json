@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dig.android",
+      "sha256_cert_fingerprints": [
+        "4E:DF:69:0D:2C:0B:93:B9:A3:9F:F7:01:42:03:23:D8:48:0E:71:28:D2:6D:1D:E2:C1:D9:D0:E5:86:CB:FA:F3",
+        "53:E5:E8:55:80:FD:AB:04:BA:FF:DC:3D:5F:4A:E2:95:34:25:BE:A2:4A:57:42:62:45:EC:67:0E:73:34:69:DF",
+        "DB:EB:28:66:6A:C1:16:F1:C7:ED:61:5B:BC:A9:6D:F9:F8:24:1C:86:0E:7B:C2:0F:AF:A3:F6:89:7B:F8:04:CB"
+      ]
+    }
+  }
+]

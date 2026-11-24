@@ -1,0 +1,28 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "*.com.dig.app",
+          "*.com.dig.wallet.digWalletApp"
+        ],
+        "paths": [
+          "/medical-card",
+          "/medical-card/*",
+          "/medical-card*"
+        ],
+        "components": [
+          {
+            "/": "/medical-card*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "*.com.dig.app"
+    ]
+  }
+}

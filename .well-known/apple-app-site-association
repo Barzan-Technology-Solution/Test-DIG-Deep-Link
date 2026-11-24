@@ -4,8 +4,8 @@
     "details": [
       {
         "appIDs": [
-          "*.com.dig.app",
-          "*.com.dig.wallet.digWalletApp"
+          "FP8325R4KZ.com.dig.app",
+          "FP8325R4KZ.com.dig.wallet.digWalletApp"
         ],
         "paths": [
           "/medical-card",
